@@ -1,6 +1,6 @@
 {
   "name": "next-inline-svg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Next js plugin for SVGR",
   "main": "index.js",
   "author": "João Vitor Machado",
