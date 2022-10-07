@@ -1,7 +1,7 @@
 # :rocket: next-inline-svg
 
-[![License](https://img.shields.io/npm/l/@svgr/core.svg)](https://github.com/smooth-code/svgr/blob/master/LICENSE)
-[![npm package](https://img.shields.io/npm/v/next-inline-svg/latest.svg)](https://www.npmjs.com/package/next-svgr)
+[![License](https://img.shields.io/npm/l/next-inline-svg.svg)](https://github.com/jaovitubr/next-inline-svg/blob/main/LICENSE)
+[![npm package](https://img.shields.io/npm/v/next-inline-svg/latest.svg)](https://www.npmjs.com/package/next-inline-svg)
 
 [`SVGR`](https://react-svgr.com/docs/next/) takes a raw SVG and transforms it into a ready-to-use `React component`.
 
